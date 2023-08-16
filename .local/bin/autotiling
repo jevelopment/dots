@@ -1,5 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+
+# I have no idea where i got this file but i have tried to get autotiling to work in i3
+# for ages. and i just stumbled on to this... 
+# chat gpt said to : pip install autotiling 
+# and i goes in i3 config: 
+# exec --no-startup-id /home/jake/.local/bin/autotiling
+
 import re
 import sys
 from autotiling.main import main
