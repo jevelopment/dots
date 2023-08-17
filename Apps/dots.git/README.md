@@ -9,3 +9,6 @@ Basic usage example:
 config add /path/to/file
 config commit -m "A short message"
 config push
+
+to sync the files back down to a system :
+config checkout
